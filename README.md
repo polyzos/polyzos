@@ -12,4 +12,4 @@
 
 ![alt text](https://i.pinimg.com/originals/12/3d/27/123d277636783ba450261641cd5d9b92.png=250x250)
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="[https://camo.githubusercontent.com/...](https://i.pinimg.com/originals/12/3d/27/123d277636783ba450261641cd5d9b92.png)" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
