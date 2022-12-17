@@ -10,4 +10,4 @@
 - 📫 How to reach me: [...](https://www.linkedin.com/in/polyzos/)
 
 
-![alt text](https://i.pinimg.com/originals/12/3d/27/123d277636783ba450261641cd5d9b92.png)
+![alt text](https://i.pinimg.com/originals/12/3d/27/123d277636783ba450261641cd5d9b92.png=250x250)
