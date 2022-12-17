@@ -12,5 +12,5 @@
 
 ![alt text](https://i.pinimg.com/originals/12/3d/27/123d277636783ba450261641cd5d9b92.png=250x250)
 
-<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://i.pinimg.com/originals/12/3d/27/123d277636783ba450261641cd5d9b92.png)" width="150" height="280">
+<img src="[Kafka](https://i.pinimg.com/originals/12/3d/27/123d277636783ba450261641cd5d9b92.png)" width="150" height="150">
 
