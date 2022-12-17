@@ -1,7 +1,8 @@
 ## <p align="center">Hi 👋, I'm Giannis</p>
 
+### <p align="center">A Solution Architect / Engineer </p>
+#### <p align="center">Passionate for Event Streaming Systems, Stateful Stream Processing and Cloud Native Data Architectures </p>
 
-#### A Solution Architect / Engineer with a passion for Event Streaming Systems, Stateful Stream Processing and Cloud Native Data Architectures
 
 <!--
 **polyzos/polyzos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
