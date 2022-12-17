@@ -10,11 +10,9 @@
 - 📫 How to reach me: [...](https://www.linkedin.com/in/polyzos/)
 
 
-![alt text](https://i.pinimg.com/originals/12/3d/27/123d277636783ba450261641cd5d9b92.png | height="250")
+![alt text](https://i.pinimg.com/originals/12/3d/27/123d277636783ba450261641cd5d9b92.png)
 <div style="width: 60%; height: 60%">
-  
-  ![]([.images/sample.png](https://i.pinimg.com/originals/12/3d/27/123d277636783ba450261641cd5d9b92.png))
-  
+  ![alt text](https://i.pinimg.com/originals/12/3d/27/123d277636783ba450261641cd5d9b92.png)  
 </div>
-<img src="[Kafka](https://i.pinimg.com/originals/12/3d/27/123d277636783ba450261641cd5d9b92.png)" width="150" height="150">
+
 
