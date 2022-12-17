@@ -5,9 +5,9 @@
 
 
 - 🔭 I’m currently working at [Aiven](https://aiven.io/)
-- 🌱 I’m currently learning **Observability and OpenTelemetry for Streaming Jobs / Systems**
+- 🌱 I’m currently learning Observability and OpenTelemetry for Streaming Jobs / Systems
 - 💬 Ask me about **Apache Kafka**, **Apache Pulsar**, **Apache Flink**, **Cloud Native Observability** and **Kotlin**
-- 📫 How to reach me: [...](https://www.linkedin.com/in/polyzos/)
+- 📫 How to reach me (https://www.linkedin.com/in/polyzos/)
 
 
 
