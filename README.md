@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working at [Aiven](https://aiven.io/)
-- 🌱 I’m currently focusing on Observability and OpenTelemetry for Streaming Apps / Systems
+- 🌱 I’m currently focusing on Cloud Native Observability for Streaming Apps / Systems
 - 💬 Ask me about **Apache Kafka**, **Apache Pulsar**, **Apache Flink**, **Streaming Data Infra** and **Kotlin**
 - 📫 How to reach me https://www.linkedin.com/in/polyzos/
 
