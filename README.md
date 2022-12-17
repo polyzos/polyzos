@@ -1,5 +1,6 @@
-### <p align="center">Hi 👋, I'm Giannis</p>
-============================================
+## <p align="center">Hi 👋, I'm Giannis</p>
+
+
 #### A Solution Architect / Engineer with a passion for Event Streaming Systems, Stateful Stream Processing and Cloud Native Data Architectures
 
 <!--
