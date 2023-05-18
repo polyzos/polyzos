@@ -1,4 +1,4 @@
-## <p align="center">Hi 👋, I'm Giannis</p>
+## <p align="center">Hi 👋 I'm Giannis</p>
 
 ### <p align="center">and I'm a Stream Processing Architect & Trainer </p>
 #### <p align="center">Passionate for Event Streaming Systems, Stateful Stream Processing and Cloud Native Data Architectures </p>
