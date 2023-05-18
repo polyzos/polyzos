@@ -4,7 +4,7 @@
 #### <p align="center">Passionate for Event Streaming Systems, Stateful Stream Processing and Cloud Native Data Architectures </p>
 
 
-- 🔭 Founder of the Streaming Ledger
+- 🔭 Founder of the **Streaming Ledger**
 - 🌱 I’m focusing on **Apache Flink** and it's ecosystem
 - 📝 I write articles on [medium](https://medium.com/@ipolyzos_) and from time to time @ [Rock The JVM Blog](https://blog.rockthejvm.com/?_ga=2.239453445.762029918.1671272111-177328410.1670416781)
 - 💬 Ask me about **Apache Flink**, **Apache Kafka**, **Apache Pulsar** and **Cloud-native Data Architectures**.
