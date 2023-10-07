@@ -1,7 +1,7 @@
 ## <p align="center">Hi 👋 I'm Giannis</p>
 
-### <p align="center">and I'm a Stream Processing Architect & Trainer </p>
-#### <p align="center">Passionate for Event Streaming Systems, Stateful Stream Processing and Streaming Data Architecture </p>
+### <p align="center">and I'm an Architect & Trainer focusing on Streaming Data.</p>
+#### <p align="center">Passionate for Event Streaming Systems, Stateful Stream Processing and Lakehouse Data Architectures </p>
 
 
 - 🔭 Working @ **Ververica**
