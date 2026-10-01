@@ -1,7 +1,7 @@
 ## <p align="center">Hi 👋 I'm Giannis</p>
 
-### <p align="center">and I'm a Principal Streaming Architect, focusing on Streaming Data Platforms.</p>
-#### <p align="center">Passionate for Event Streaming Systems, Stateful Stream Processing, and the Streaming Lakehouse </p>
+### <p align="center">and I'm a Principal Streaming Engineer & Architect, focusing on Streaming Data Platforms.</p>
+#### <p align="center">Passionate about Event Streaming Systems, Stateful Stream Processing, and the Streaming Lakehouse </p>
 
 
 - 🔭 Working @ **Ververica**
